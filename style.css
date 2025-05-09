@@ -1,0 +1,18 @@
+body{
+    background-color:hsl(212, 45%, 89%) ;
+}
+.outer-box{
+    margin: 0 auto;
+    background-color: #fff;
+    height: 490px;
+    width: 320px;
+    border-radius: 7px;
+}
+.inner-box{
+    
+}
+.inner-box img{
+    border-radius: 7px;
+    height: 288px;
+    width: 288px;
+}
